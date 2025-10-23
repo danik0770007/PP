@@ -1,0 +1,5 @@
+import os
+
+path= r"/Users/danik/Documents"
+all=list(os.listdir(path))
+print(all)
